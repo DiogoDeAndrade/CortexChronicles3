@@ -14,6 +14,11 @@ After being arrested in a prison, he has to navigate it and find a way to escape
 ## Licenses
 
 * All game source code by Diogo de Andrade is licensed under the [MIT] license.
+* [GB Studio Plugins] by [Pau], licensed under unknown license.
+* RPG Asset Tile Set [Secret Service Building GB] by [chasersgaming], available throught the [CC0] license.
+* RPG Asset Tile Set [Military Base GB] by [chasersgaming], available throught the [CC0] license.
+* Character Set [Soldier GB] by [chasersgaming], available throught the [CC0] license.
+* [Gameboy Platformer Tile] Set by [LittleSadNerd], available throught the [CC0] license.
 * All remaining art by Diogo de Andrade, available throught the [CC0] license.
 
 ## Metadata
@@ -27,3 +32,11 @@ After being arrested in a prison, he has to navigate it and find a way to escape
 [GB Studio]:https://www.gbstudio.dev/
 [GB Pixel Art Jam 2023]:https://itch.io/jam/gbpixelartjam23  
 [MIT]:LICENSE
+[chasersgaming]:https://itch.io/profile/chasersgaming
+[Secret Service Building GB]:https://chasersgaming.itch.io/rpg-asset-tile-set-secret-service-building-gb
+[Military Base GB]:https://chasersgaming.itch.io/rpg-assets-tile-set-military-base-gameboy
+[Soldier GB]:https://chasersgaming.itch.io/rpg-assets-character-soldier-gameboy
+[Gameboy Platformer Tile]:https://opengameart.org/content/gameboy-platformer-art
+[LittleSadNerd]:https://opengameart.org/users/littlesadnerd
+[GB Studio Plugins]:https://github.com/pau-tomas/gb-studio-plugins
+[Pau]:https://github.com/pau-tomas/
