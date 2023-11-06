@@ -1,9 +1,15 @@
 # THE CORTEX CHRONICLES, CHAPTER 3 - The Escape of Rowan Reed
 
+![TitleImage](screenshots/screen00.png)
+
 Developed for the Game Creator's Club at Lusofona University.
 This month, the theme was "Pixel Inspiration": choose one or more submissions from the [GB Pixel Art Jam 2023] and be inspired by it.
 
 I was inspired by all of them, and decided to learn [GB Studio] and make a game in it.
+
+![Screenshot01](screenshots/screen01.png)
+![Screenshot02](screenshots/screen02.png)
+![Screenshot03](screenshots/screen03.png)
 
 This is a part of what I hope will be "The Cortex Chronicles" - I want all the games I do for the Game Creator's Club this year to be linked together, hence this idea.
 I also want to use a different engine on every entry, so let's see how that goes! :)
