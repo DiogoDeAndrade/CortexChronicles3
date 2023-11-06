@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="28" height="18" tilewidth="8" tileheight="8" infinite="0" nextlayerid="2" nextobjectid="1">
  <tileset firstgid="1" source="tilesheetv1mini.tsx"/>
+ <tileset firstgid="181" source="GB Battleground 1 Orig.tsx"/>
  <layer id="1" name="Tile Layer 1" width="28" height="18">
   <data encoding="csv">
 56,56,56,56,57,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,56,57,
